@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><lineup>
+
+  <artist id="104"><name>Dan Patlansky</name><genres>
+      <genres>Blues</genres>
+      <genres>Rock</genres>
+      <genres>Jazz</genres>
+    </genres><writeup>
+      What Dan Patlansky can do with a six-string Fender Stratocaster at the age of 26, most critically acclaimed guitarists will never quite achieve in a lifetime.
+    </writeup><gig><day>Friday</day><time><start>14:00</start><end>16:00</end></time></gig><photo/></artist>
+  
+  <artist id="105"><name>Mi Casa</name><genres>
+      <genres>Dance</genres>
+      <genres>Club</genres>
+    </genres><writeup>
+      Mi Casa gives a whole new meaning to soulful house. This is what the world has been yearning for &amp; now that Mi Casa is here its so overwhelming that no words can define their talent!
+    </writeup><gig><day>Friday</day><time><start>16:00</start><end>18:00</end></time></gig><photo/></artist>
+  
+  <artist id="106"><name>The Narrow</name><genres>
+      <genres>Alternative</genres>
+      <genres>Rock</genres>
+    </genres><writeup>
+      Since forming The Narrow, the band very quickly developed their own sound and identity whilst retaining elements of their roots.
+    </writeup><gig><day>Sunday</day><time><start>12:00</start><end>14:00</end></time></gig><photo/></artist>
+
+</lineup>

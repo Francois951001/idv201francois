@@ -1,0 +1,78 @@
+$font-stack: Arial, sans-serif;
+
+$primary-color : #1968a8;
+$secondary-color : #ffffff;
+$light-back : #ffffff;
+$primary-back : #1968a8;
+$secondary-back : #000000;
+$primary-heading: #AA2159;
+
+body {
+  font: 100% $font-stack;
+  background-color: $light-back;
+  background-image: url(background.jpg);
+}
+
+h1 {
+  font: 36px $font-stack;
+  color : $secondary-color;
+}
+
+h2 {
+  font: 30px $font-stack;
+  color : $secondary-color;
+}
+
+h3 {
+  font: 15px $font-stack;
+  color : $secondary-color;
+}
+
+li {
+  color : $primary-color;
+}
+
+p {
+  color : $secondary-color;
+}
+
+.h1{
+	border: 1px solid black;
+	border-color: #1968a8;
+	border-radius: 25px;
+	color: white;
+    margin: 0px auto 0px auto;
+  padding: 10px 0px 10px 200px;
+}
+
+.h2{
+	border: 1px solid black;
+	border-color: $primary-color;
+	border-radius: 15px;
+	color: white;
+    margin: 0px auto 0px auto;
+  padding: 10px 0px 10px 350px;
+    
+}
+
+.page {
+	padding: 20px auto 20px auto;
+	margin: 10px auto 10px auto;
+    color: $light-back ;
+}
+
+a:hover {
+	color: #1978a8;
+}
+
+a {
+	color: white;
+	}
+
+.questions	{
+	font-style: italic;
+	}
+	
+.navigation	{
+	text-align: center;
+	}
